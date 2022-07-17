@@ -9,7 +9,7 @@ function Home() {
   
   <div id = '#home'> 
 
-  <h1 style = ""> Your {name} is a Web Developer from Your {city} </h1>
+  <h1 style = ""> {name} is a Web Developer from {city} </h1>
   
   </div>
 
